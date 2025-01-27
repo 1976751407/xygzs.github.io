@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://xygzs.github.io</id>
+    <title>鳕芸工作室</title>
+    <updated>2025-01-27T10:09:56.375Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://xygzs.github.io"/>
+    <link rel="self" href="https://xygzs.github.io/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://xygzs.github.io/images/avatar.png</logo>
+    <icon>https://xygzs.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2025, 鳕芸工作室</rights>
+    <entry>
+        <title type="html"><![CDATA[测试文件]]></title>
+        <id>https://xygzs.github.io/post/FnXMsLnror/</id>
+        <link href="https://xygzs.github.io/post/FnXMsLnror/">
+        </link>
+        <updated>2025-01-26T11:51:57.000Z</updated>
+        <content type="html"><![CDATA[<p>测试</p>
+]]></content>
+    </entry>
+</feed>
